@@ -1,0 +1,27 @@
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .about h1 {
+    font-size: 24px;
+    margin-right: 20px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
+  .about a {
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .about img {
+    width: 48px;
+    height: 48px;
+  }
+  
