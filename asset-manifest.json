@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e8b5178.css",
+    "main.js": "/static/js/main.aceb415e.js",
+    "static/media/Sabrine Gaceur Done (2).pdf": "/static/media/Sabrine Gaceur Done (2).e69744e497d211bdee1f.pdf",
+    "index.html": "/index.html",
+    "main.6e8b5178.css.map": "/static/css/main.6e8b5178.css.map",
+    "main.aceb415e.js.map": "/static/js/main.aceb415e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e8b5178.css",
+    "static/js/main.aceb415e.js"
+  ]
+}
