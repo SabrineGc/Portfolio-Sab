@@ -1,5 +1,5 @@
 import React from "react";
-// import GitHubCalendar from "react-github-calendar";
+import GitHubCalendar from "react-github-calendar";
 
 export default function About() {
   return (
@@ -17,13 +17,13 @@ export default function About() {
           My expertise includes creating robust, scalable, and user-friendly applications using modern frameworks and libraries.
           I am dedicated to crafting elegant and efficient solutions to complex problems.
         </p>
-        {/* <GitHubCalendar 
+        <GitHubCalendar 
         username="SabrineGc"
         blockSize={15}
         blockMargin={5}
         color="#c084f5"
         fontSize={16}
-        /> */}
+        />
         <div className="flex items-center space-x-4">
           <a
             href="#contact"

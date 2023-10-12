@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "myportfolio-dbc01",
+    "portfolio": "myportfolio-dbc01"
+  },
+  "targets": {},
+  "etags": {}
+}
