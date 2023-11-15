@@ -21,7 +21,7 @@ export const projects = [
     title: "Student Management",
     subtitle: "MEAN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The Student Management System is a web application designed to help educational institutions manage student information efficiently. It provides a user-friendly interface for administrators, teachers, and students to access and update relevant data.",
     image: "./project-3.gif",
     link: "https://github.com/Greenfield2-0/student-Management",
  
